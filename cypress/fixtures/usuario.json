@@ -1,0 +1,23 @@
+{
+    "usuario": {
+        "accountType": "USER",
+        "address": "Rua X",
+        "allowOffersPromotion": true,
+        "aobUser": true,
+        "cityName": "São Paulo",
+        "country": "AUSTRALIA_AU",
+        "email": "teste@teste.com",
+        "firstName": "Joao",
+        "lastName": "Silva",
+        "loginName": "JSsaopaulo",
+        "password": "Joao12345",
+        "phoneNumber": "5511987654321",
+        "stateProvince": "SP",
+        "zipcode": "00000000"
+    },
+    "usuarioLogin": {
+        "email": "teste@teste.com",
+        "loginPassword": "Joao1234",
+        "loginUser": "JSsaopaulo"
+    }
+}
